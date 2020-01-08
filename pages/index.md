@@ -1,18 +1,6 @@
 # Design of Communicating Systems
 
 
-<!--
-### Step 1: Boarding Survey 
-
-Tell us that you are taking the course and provide us with some additional information so we can create effective teams. 
-
----
-type: button
-url: https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BSxiepoCd7lKk70IThBWqdJUNFE0UUpVTkZUT1g3UVhBS0FQOTRKUTJXNS4u
-text: TTM4115 Boarding Survey
----
--->
-
 ### Step 1: Prepare for Monday, Jan. 13th 2019
 
 Work through the following material _before_ class time:

@@ -22,7 +22,8 @@ For many aspects of collaboration, we are going to use Microsoft Teams in this c
 * Install it on your mobile devices (Android or iOS), too.
 * You will receive an invitation link to the team _TTM4115 (2020)_ later.
 
-Aside: 
+
+:aside: 
 <img width="50px" src="figures/msteams.jpg"/>
 
 
@@ -43,18 +44,6 @@ Have a look at the results from the students of last years. Each team created a 
 
 **Write down three ideas for systems.** These do not have to be mature ideas or well-thought-out, since you will work on them in your teams. However, some raw material in form of initial ideas is important and valuable in that process. 
 
-
-<!--
-# Boarding Survey
-
-Please **complete the boarding survey** as soon as possible, if you have not already done it.
-
----
-type: button
-url: https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BSxiepoCd7lKk70IThBWqdJUNFE0UUpVTkZUT1g3UVhBS0FQOTRKUTJXNS4u
-text: TTM4115 Boarding Survey
----
--->
 
 
 # All done!
