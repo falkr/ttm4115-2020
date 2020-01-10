@@ -36,7 +36,7 @@ Agile methods of some form are now used for many projects. Learn about the key c
 </div>
 
 
-Aside: Knowledge refers to the understanding of theories, facts, concepts, principles, procedures in subjects, subjects and professions.
+:aside: Knowledge refers to the understanding of theories, facts, concepts, principles, procedures in subjects, subjects and professions.
 
 
 
@@ -94,7 +94,7 @@ Learn how to reason about different alternatives together with others. This can 
 </div>
 
 
-Aside: Skills are the ability to apply knowledge to solve problems and tasks. There are different types of skills - cognitive, practical, creative and communicative skills.
+:aside: Skills are the ability to apply knowledge to solve problems and tasks. There are different types of skills - cognitive, practical, creative and communicative skills.
 
 
 
@@ -141,4 +141,4 @@ Reflection is the basis for improving and adjusting development processes. It al
 </div> 
 
 
-Aside: General competence is to be able to apply knowledge and skills independently in different situations by showing collaborative ability, accountability, ability to reflect and critical thinking in educational and professional context.
+:aside: General competence is to be able to apply knowledge and skills independently in different situations by showing collaborative ability, accountability, ability to reflect and critical thinking in educational and professional context.

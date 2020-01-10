@@ -13,6 +13,14 @@ source: figures/grades.svg
 caption: "Combinations of different elements towards the final grade."
 ---
 
+The final grade in the course is based on a portfolio, with the intention to facilitate learning and to provide feedback to students throughout the semester, and enable learning in the context of realistic development conditions through a semester project. The portfolio contains a series of tests, so-called readiness assurance tests (RATs) that are done during class time. Each test introduces the students to a new subset of concepts, as a means to provide feedback on their level of preparation. These tests are multiple-choice and are given, like the preparation material, in English language only. 
+
+To also develop skills and knowledge on higher cognitive levels, the portfolio contains a development project, tightly connected to the content of the RATs, that students conduct throughout the semester in teams. The teams hand in various specification documents about their system common in real projects, and receive feedback on them throughout the semester in various ways, including feedback by peers, student and teaching assistants and the teacher. 
+
+At the end of the semester, each student hands in their individual portfolio, consisting of their team's documents in addition to individual deliveries and reflections that set the team document in context. 
+The exact details of the deliveries and requirements are carefully explained at the beginning of the course.
+The portfolio is evaluated as a whole according to NTNUs grading scheme. The language for all material is English.
+
 
 # RATs
 
@@ -21,57 +29,12 @@ Each RAT is a combination of the individual RAT and the team RAT. The individual
 
 # Team Deliveries T1, T2, T3
 
-The team deliveries document your progress with the system. T1 and T2 are not directly graded, but you receive feedback to them and base the final team delivery T3 on many of the elements of T1 and T2. 
-
-# Peer Evaluation
-
-Three times during the semester, at the same time as the individual deliveries I1, I2, I3, you also deliver a peer evaluation.
-This evaluation assigns points to your teammates, and rewards them for good contributions to the teamwork.
-
-This is how it works technically:
-
-- You have 100 points.
-- You distribute these 100 points among the other team members. (You don't give points to yourself.)
-- In a team with 6 students, this means that you distribute 100 points among the 5 other members.
-
-After the submission, everyone gets a report on the points they have received.
-
-- Everyone can see which points they received, but not from whom.
-- The points count towards a score.
-- The score is multiplied with the grade for the team project.
-
----
-type: figure
-source: figures/tbl/peer-1.svg
-caption: "A student distributing 100 points to the teammates."
----
-
-### Examples
-
-- A student thinks that all member of the team contributed equally. There were 6 students in the team, so each of the 5 other students gets 20 points.
-- In a team where all members have contributed equally, they ideally all receive 100 points, which results in a score of 100%, so that it has no effect on the grade.
-- A student thinks that not all team members contributed equally, and therefore gives the following points: 20, 21, 17, 19, 23.
+The team deliveries document your progress with the system. T1 and T2 are not directly graded, but they will be included, in improved form, in your final portfolio.
 
 
-### Experience
-
-We have done peer review since 2016, and each year the reference group recommends to continue with peer review.
-
-The majority of the scores that result from the peer review are located in a narrow intervall around 100, which means that the effect on the final grade is very little.
-
-It seems that the peer review has a positive effect on the attention in the team to contribute.
-
-### Extra Rules
-
-* Peer review is not a means to resolve conflicts in a team. These should be resolved directly, maybe by seeking help. 
-* Teams need to be functional for the peer review to work. A teammate not meeting up regularly, for instance, cannot submit a peer review. Teams that effectively only consist of 4 students are not a good basis for a valid peer review.
-* The course responsible _can_, but has not obligation to, reject a peer review.
-* If no peer review is submitted by a student, it counts as if all points are equally distributed among the other team members.
-
-We will also discuss rules in class.
 
 # Individual Deliveries I1, I2, I3
 
-These are three consecutive deliveries that build on each other, and encourage you to reflect about the course, your own role and progress, and how you reached the learning goals. I2 and I2 are not directly graded, but make it easier for you to write the final individual delivery I3. 
+These are three consecutive deliveries that build on each other, and encourage you to reflect about the course, your own role and progress, and how you reached the learning goals. I2 and I2 are not directly graded, but make it easier for you to write the final portfolio.
 
 
