@@ -269,5 +269,5 @@ The list of features is also long.
 These are just a few examples of functionalities offered by component frameworks. 
 
 
-Aside: Only recently Java 9 was published with a framework called Java Jigsaw that [introduces a module system for Java](https://jaxenter.com/java-9-interview-marcus-biel-137836.html). 
+:aside: Only recently Java 9 was published with a framework called Java Jigsaw that [introduces a module system for Java](https://jaxenter.com/java-9-interview-marcus-biel-137836.html). 
 

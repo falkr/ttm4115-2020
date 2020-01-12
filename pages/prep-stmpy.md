@@ -20,7 +20,7 @@ Just look at this:
 
 
 
-Aside: The reason for looking at state machines is simple: Concurrency in programming languages is hard, even for experienced developers. 
+:aside: The reason for looking at state machines is simple: Concurrency in programming languages is hard, even for experienced developers. 
 
 
 <table class="table">

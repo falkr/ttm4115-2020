@@ -73,7 +73,7 @@ During the semester, you need to hand in the following deliveries:
 <div class="mxgraph" style="max-width:100%;border:1px solid transparent;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;resize&quot;:true,&quot;toolbar&quot;:&quot;zoom&quot;,&quot;edit&quot;:&quot;_blank&quot;,&quot;url&quot;:&quot;https://drive.google.com/uc?id=1q4XGKWjO-yyzqCEL_tUC_vVavv_xcQJQ&amp;export=download&quot;}"></div>
 <script type="text/javascript" src="https://www.draw.io/embed2.js?&fetch=https%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1q4XGKWjO-yyzqCEL_tUC_vVavv_xcQJQ%26export%3Ddownload"></script>
 
-Aside: The deliveries are aligned with each other, which is why they require less work than you may initially think.
+:aside: The deliveries are aligned with each other, which is why they require less work than you may initially think.
 
 
 * T1, T2, T3 are **team deliveries** (one delivery per team) and consist of the team activities, and documents about the system you build. Deliveries T1 and T2 are milestones towards T3. This means, you need to deliver them, and they are graded passed/failed. T3 contains elements of T1 and T2, and is the delivery that is graded.

@@ -83,7 +83,7 @@ In the following, you should estimate how relevant the learning goals of this co
 - Discuss then in team an compare your results, agree on a common solution.
 - Create one final version for the whole team.
 
-Aside: Working first individually and then together is a helpful pattern to collect more ideas and give each one the ability to think on their own. You should always consider this approach and use it when possible.
+:aside: Working first individually and then together is a helpful pattern to collect more ideas and give each one the ability to think on their own. You should always consider this approach and use it when possible.
 
 
 
@@ -91,7 +91,7 @@ Aside: Working first individually and then together is a helpful pattern to coll
 
 For this activity, we work with three simplified roles. In reality, they can be more subtle and vague, and some roles are combined. What is important for now is that you start getting aware that different roles during development exist, and that they have different tasks and responsibilities, and therefore have different motivations, interests and require different skills.
 
-Aside: Agile methods often define these roles with more details and sharper. Later during the course we will for instance look at the Scrum method, and how it defines the roles of developer, product owner and Scrum master, which is similar to a project manager.
+:aside: Agile methods often define these roles with more details and sharper. Later during the course we will for instance look at the Scrum method, and how it defines the roles of developer, product owner and Scrum master, which is similar to a project manager.
 
 
 
@@ -162,7 +162,7 @@ Think about the following points:
 
 * Did you reach the goals? 
 
-Aside: This team reflection should become a natural routine for each week. 
+:aside: This team reflection should become a natural routine for each week. 
 
 
 # Individual Reflection

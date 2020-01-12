@@ -272,7 +272,7 @@ directly connected, in the sense that the sender is not doing anything
 else while the communication is going on. A synchronous
 request-response, for instance, looks as follows:
 
-Aside: Note that we are now using the words synchronous and asynchronous 
+:aside: Note that we are now using the words synchronous and asynchronous 
 for the communication pattern, not to the specific modeling element
 of a synchronous or asynchronous messages in sequence diagrams. In 
 both examples, we use synchronous messages.
@@ -415,7 +415,7 @@ MQTT and HTTP, many other application-level protocols will be easy to
 understand, too. There are also some more practical reasons why we
 recommend you to use MQTT for the semester project:
 
-Aside: Read the article [Building Facebook Messenger](https://www.facebook.com/notes/facebook-engineering/building-facebook-messenger/10150259350998920)
+:aside: Read the article [Building Facebook Messenger](https://www.facebook.com/notes/facebook-engineering/building-facebook-messenger/10150259350998920)
 
 
 

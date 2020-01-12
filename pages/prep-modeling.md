@@ -201,7 +201,7 @@ You can show a **device inside a device**, for instance when you want to show a 
    
 Usually, execution environment are contained within devices, since software needs to run on some hardware. The only reason not to show a device and have an execution as its own top-level element is when the hardware it necessarily runs on is obvious from the context or not important at all. One thing is sure, however: execution environments cannot contain devices. 
 
-Aside: I haven't so far found a good example where an execution environment contains another execution environment. 
+:aside: I haven't so far found a good example where an execution environment contains another execution environment. 
 
 ---
 type: figure
@@ -311,7 +311,7 @@ caption: "Notes can show additional information that is difficult to express in 
 
 If you want, have a look at the following videos that show how to create deployment diagrams.
 
-Aside: The opinion among student about this series of videos is divided; some find them very useful, others not so much. So have a look at some and decide for yourself.
+:aside: The opinion among student about this series of videos is divided; some find them very useful, others not so much. So have a look at some and decide for yourself.
 
 ---
 type: youtube
