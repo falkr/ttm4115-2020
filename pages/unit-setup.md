@@ -6,19 +6,6 @@ You need to find time slots when your team can meet each week. Ideally, these ar
 * Find the document **Team Overview** on Teams.
 * Write in your regular timeslots.
 
-You make take the availability of group areas into account. 
-If enough teams can select the same timeslot, we can reserve a group area. 
-
-* Monday 10:00 -- 12:00: Smia
-* Tuesday 8:00 -- 10:00: Smia
-* Tuesday 10:00 -- 12:00: Smia
-* Wednesday 10:00 -- 12:00: R2
-* Wednesday 18:00 -- 20:00: R2
-* Friday 8:00 -- 10:00: R2
-* Friday 14:00 -- 16:00: Smia
-
-
-
 
 # Team Setup
 
@@ -33,7 +20,7 @@ Have a quick look again at the [team roles](learning-teamwork.html) that you hav
 
 Try to briefly get an overview of today's tasks, and come up with a rough time plan.
 
-Aside: This team setup should become a normal routine for each week. 
+:aside: This team setup should become a normal routine for each week. 
 
 
 # Team Reflection 
