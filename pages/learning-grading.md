@@ -1,17 +1,5 @@
 # Grading
 
-There is no final written exam in the course. 
-Your final grade for this course will consist of three components:
-
-* A semester project, done in teams (40%). There are several deliveries throughout the semester.
-* Readiness assurance tests (30%). These are several multiple-choice tests that cover the reading material. The RATs are carried out throughout the semester.
-* Individual deliveries (30%). There are several deliveries throughout the semester.
-
----
-type: figure
-source: figures/grades.svg
-caption: "Combinations of different elements towards the final grade."
----
 
 The final grade in the course is based on a portfolio, with the intention to facilitate learning and to provide feedback to students throughout the semester, and enable learning in the context of realistic development conditions through a semester project. The portfolio contains a series of tests, so-called readiness assurance tests (RATs) that are done during class time. Each test introduces the students to a new subset of concepts, as a means to provide feedback on their level of preparation. These tests are multiple-choice and are given, like the preparation material, in English language only. 
 
@@ -24,7 +12,8 @@ The portfolio is evaluated as a whole according to NTNUs grading scheme. The lan
 
 # RATs
 
-Each RAT is a combination of the individual RAT and the team RAT. The individual counts 70% and the team counts 30%. At the end of the semester, we only count the best 7 out of 9 RATs. 
+Each RAT is a combination of the individual RAT and the team RAT. The individual counts 70% and the team counts 30%. At the end of the semester, we only count the best 7 out of 9 RATs.
+
 
 
 # Team Deliveries T1, T2, T3
