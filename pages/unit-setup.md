@@ -131,16 +131,6 @@ These are just examples of balances.
 
 
 
-# Task: Initial Project Ideas
-
-Go through the individual ideas that you have for the semester project. The goal is that you get inspired by the ideas of the others. You don't yet have to decide on a system today.
-
-- Make a list of all project ideas.
-- Briefly explain the idea.
-- Combine similar ideas, or briefly sketch new ones.
-- Create a final list of ideas for today.
-
-
 # Team Reflection for This Unit 
 
 It may seem like an overhead to reflect already now during the setup and with these relatively simple tasks. But this team reflection should become a routine from now on. Fill out the section for today's week:
@@ -181,9 +171,6 @@ Deliver via Teams:
 
 * Setup regular meeting times and written them into the common Team Overview document.
 * First Team Reflection (in the public channel for your team).
-
-Deliveries via Blackboard:
-
 * Learning Goals Relevance (PDF)
 * Balances in Teamwork (PDF)
 
