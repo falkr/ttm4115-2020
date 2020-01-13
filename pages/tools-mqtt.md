@@ -1,7 +1,3 @@
----
-status: draft
----
-
 # MQTT
 
 # MQTT Broker
