@@ -7,7 +7,7 @@ In the following unit, we will first look at the task of **modeling in general**
 
 
 
-Goals: The learning goals specific for this week are the following:
+:goals: The learning goals specific for this week are the following:
 
 - Be aware of the overall importance of modeling in engineering.
 - Understand what constitutes a model.

@@ -7,7 +7,7 @@ In the previous units, we learned how to capture and understand our user's requi
 
 
 
-Goals: After this week, you will be able to:
+:goals: After this week, you will be able to:
 
 - Create syntactically correct state machines.
 - Interpret and explain detailed state machine behavior.

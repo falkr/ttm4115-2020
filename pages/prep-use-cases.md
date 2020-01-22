@@ -25,7 +25,7 @@ You may think now that you could have done this also without use cases, just by 
 
 
 
-Goals: The learning goals specific for this week are the following:
+:goals: The learning goals specific for this week are the following:
 
 - Appreciate the value of thinking in terms of use cases.
 - Creating use case overview diagrams and use case tables.

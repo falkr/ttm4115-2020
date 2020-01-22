@@ -9,7 +9,7 @@ This is part of systems development is called **requirements engineering**.
 
 
 
-Goals: The learning goals specific for this week are the following:
+:goals: The learning goals specific for this week are the following:
 
 - Understand how critical requirements are for the development process.
 - Go through a design thinking workshop to elaborate requirements.
@@ -31,7 +31,7 @@ In addition, read through the following chapter from the compendium:
 This is a sample requirements document, similar to one that you also will have to deliver for your project. 
 The RAT will not contain question that require you to remember details from the document, but this document provides a valuable context for Chapter 1.
 
-:aside: You find the book chapter as part of the compendium on Blackboard, under _Learning Materials_.
+:aside: You find the book chapter as part of the compendium on Teams.
 
 
 ## System Ideas

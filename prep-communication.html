@@ -133,7 +133,7 @@
 <p>In this unit, we will have a look at communication at the level of an application. This means, we will learn how communication protocols influence our application logic. We will also study some of the details of specific protocols, in particular HTTP and MQTT.</p>
 <h2 id="learning-goals">Learning Goals</h2>
 
-<p>Goals: The learning goals specific for this week are the following:</p>
+<div class="goals"><p>The learning goals specific for this week are the following:</p>
 <ul>
 <li>Recognize and recite basic communication patterns and terminology.</li>
 <li>Relate communication mechanisms to each other.</li>
@@ -141,7 +141,7 @@
 <li>Reciting the basic mechanisms of HTTP and MQTT.</li>
 <li>Designing an MQTT topic structure for a given system.</li>
 </ul>
-
+</div>
 <p>Communication protocols easily fill a course on their own, because there are so many of them and because they rely on a lot of mechanisms that are worth studying. You have probably already learned about protocols like TCP and HTTP. In the following, we will have a look at protocols from the viewpoint of an application. From this perspective, we are concerned with the entire system, the user requirements and also the development process to build that system.</p>
 
 <div class="figure">
@@ -215,7 +215,7 @@
 
 <p>In a <em>synchronous</em> communication, the sender and the receiver are directly connected, in the sense that the sender is not doing anything else while the communication is going on. A synchronous request-response, for instance, looks as follows:</p>
 
-<span name="5c0166"></span><aside name="5c0166"><p>Note that we are now using the words synchronous and asynchronous for the communication pattern, not to the specific modeling element of a synchronous or asynchronous messages in sequence diagrams. In both examples, we use synchronous messages.</p>
+<span name="e45e9f"></span><aside name="e45e9f"><p>Note that we are now using the words synchronous and asynchronous for the communication pattern, not to the specific modeling element of a synchronous or asynchronous messages in sequence diagrams. In both examples, we use synchronous messages.</p>
 </aside>
 <div class="figure">
 <img src="figures/communication/sync.svg" width="100%"/>
@@ -261,7 +261,7 @@
 
 <p>MQTT is often used in situations where events should be sent from many sensors and broadcast to several applications. IBM and others for instance use MQTT so that IoT devices can send updates into their cloud. When Facebook introduced their Messenger application as a standalone application, they also relied on MQTT to push messages to the clients. We consider MQTT in detail because this protocol is relatively easy to understand, introduces concepts that are used in various form also in other protocols, and because its patterns and topology is complementary to those of HTTP. When you have understood MQTT and HTTP, many other application-level protocols will be easy to understand, too. There are also some more practical reasons why we recommend you to use MQTT for the semester project:</p>
 
-<span name="4e4a88"></span><aside name="4e4a88"><p>Read the article <a href="https://www.facebook.com/notes/facebook-engineering/building-facebook-messenger/10150259350998920">Building Facebook Messenger</a></p>
+<span name="fb4cb4"></span><aside name="fb4cb4"><p>Read the article <a href="https://www.facebook.com/notes/facebook-engineering/building-facebook-messenger/10150259350998920">Building Facebook Messenger</a></p>
 </aside>
 <ul>
 <li><p>MQTT is simple to debug, since more than one entity can subscribe to the same topic. This means, you can work on the communication between two entities, but observe all communication by subscribing to these topics with a debugging tool.</p></li>

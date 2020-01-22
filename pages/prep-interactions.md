@@ -6,7 +6,7 @@
 
 
 
-Goals: After this week, you will be able to:
+:goals: After this week, you will be able to:
 
 - Create syntactically valid sequence diagrams.
 - Validate sequence diagrams.

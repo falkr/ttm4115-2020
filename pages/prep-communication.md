@@ -9,7 +9,7 @@ We will also study some of the details of specific protocols, in particular HTTP
 
 
 
-Goals: The learning goals specific for this week are the following:
+:goals: The learning goals specific for this week are the following:
 
 - Recognize and recite basic communication patterns and terminology.
 - Relate communication mechanisms to each other.
