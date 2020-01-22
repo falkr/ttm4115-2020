@@ -41,7 +41,13 @@ Have another iteration on this process.
 Try to develop --- on your own, for now --- some of the ideas that you may have heard from the others, or new ideas you may have come up with.
 Make some notes that you present to your team during the team activity.
 
+---
+type: figure
+source: figures/system-ideas-2020.jpg
+caption: "The ideas from the brainstorming this week."
+---
 
+Also have a look at some of the [requirements for the system](project.html). 
 
 ## Optional Preparation
 
