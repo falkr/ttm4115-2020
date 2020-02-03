@@ -187,7 +187,7 @@ These device types are not built into UML, you can decide on your own. Which one
 
 ## Nodes: Execution Environments
 
-Software does often not directly run on hardware, but on some execution environment. If you want to show this, you can use a node (again with 3D effect) and the stereotype &laquo; execution environment&raquo;.
+Software does often not directly run on hardware, but on some execution environment. If you want to show this, you can use a node (again with 3D effect) and the stereotype &laquo;execution environment&raquo;.
 
 Examples for execution environments are runtime environment,
 application server, web server, operating system, Java virtual machine (JVM) or a container system like Docker.
