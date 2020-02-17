@@ -145,10 +145,10 @@ caption: "The original sketch from a whiteboard when planning the first release 
 We will go through machines and drivers and their Python API in the following notebooks. 
 
 
-# Python Notebooks
+# Python Jupyter Lab
 
 
-* Install Jupyter Notebooks on your computer, following [these instructions](tools-notebooks.html). 
+* Install Jupyter Lab on your computer, following [these instructions](tools-notebooks.html). 
 * Visit the Github repository [https://github.com/falkr/stmpy-notebooks](https://github.com/falkr/stmpy-notebooks) and download it. 
   * You can either pull it via Git, or download directly the contents as a ZIP file, [using this link](https://github.com/falkr/stmpy-notebooks/archive/master.zip).
 
