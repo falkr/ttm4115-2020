@@ -8,13 +8,13 @@ In this unit, you will learn how to implement state machines in Python. Achievin
 
 ## Benefits of State Machines in Code
 
-In general, state machines are useful also at the code level when there is a lot of concurrency going on, 
+State machines are useful also at the code level when there is a lot of concurrency going on, 
 and a component needs to order a set of events that can come more or less in any order. 
 You may think that there is support for threads in most programming languages, and that this is enough to handle concurrency. 
 However, sometimes also this support is very specific to certain problems and not simple to learn. 
-Usually when learning Java, which has a really extensive API for concurrency, 
-the concurrency part is considered the most difficult one, and most developers have to consider a book when doing more elaborate tasks. 
-Python has even less mature for concurrency and synchronization, and also this is hard to get right.
+For example, when learning Java, which has extensive support for concurrency, 
+the concurrency part is considered the most difficult one, and most developers have to look into a book when doing more elaborate tasks. 
+Python has even less mature support for concurrency and synchronization, and also this is hard to get right.
 Just look at this:
 
 
@@ -78,9 +78,9 @@ Many programmers cannot even handle very simple threading problems correctly.
 
 
 
-With state machines, we have a relatively simple model that scales nicely with various challenges in concurrency. 
+With state machines, we have a simple model that scales nicely with various challenges in concurrency. 
 This does not make concurrency problems vanish, but you have a good tool to solve challenges. 
-State machines are relatively easy to debug, since you can check in which current state they are, 
+State machines are easy to debug, since you can check in which current state they are, 
 and because you can look at a trace of events that explains how they got there. 
 
 It turns out, that state machines are also relatively easy to implement, 
