@@ -134,20 +134,13 @@
 <div class="page">
     </section>
     <section class="content">
-<h1 id="stmpy---state-machines-in-python">STMPY - State Machines in Python</h1>
-<p>The example implementations in this course are based on state machines in Python. For that, we use a library called STMPY. I’ve built it for this course and education purposes, so you have code that is (reasonably) easy to understand, low in complexity and easily accessible.</p>
-<p>STMPY is open source and free software. You are free to use it in your own projects. Contributions are welcome.</p>
-<p>Useful links:</p>
+<h1 id="the-ttm4115-base-architecture">The TTM4115 Base Architecture</h1>
+<p>To make the development of the semester project simpler for you, we have developed a base architecture.</p>
 <ul>
-<li><a href="https://falkr.github.io/stmpy/">STMPY Documentation</a></li>
-<li><a href="https://falkr.github.io/stmpy/stmpy/">STMPY API Documentation</a></li>
-<li><a href="https://github.com/falkr/stmpy">Source Code on Github</a></li>
-<li><a href="https://github.com/falkr/stmpy-notebooks">Jupyter Notebooks with Examples</a></li>
-</ul>
-<h2 id="stmpy-components">STMPY Components</h2>
-<p>Have a look at the <a href="https://github.com/falkr/stmpy-components">STMPY Components repository</a>. It provides examples how to make a component that contains state machines and that communicates via MQTT and JSON.</p>
-<ul>
-<li><a href="https://falkr.github.io/stmpy-components/TimerManager.m.html">Timer Manager Source Code</a></li>
+<li><strong>MQTT</strong> is the protocol to connect all system components. We use Mosquitto as broker.</li>
+<li><strong>STMPY Components</strong> provides support for state machines that communicate over MQTT. Internally, STMPY Components uses <strong>Paho for Python</strong> as MQTT client for Python and STMPY to drive the state machines.</li>
+<li><strong>Node RED</strong> is a flow-based programming tool based on Node and Java Script. It connects with MQTT, and can help you to add data base components and to connect other hardware.</li>
+<li><strong>Paho for Java Script</strong> can connect webpages that run Java Script to MQTT by using Websockets. This makes it possible to integrate two-way interactive websites into your system.</li>
 </ul>
 
     </section>

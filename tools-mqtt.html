@@ -94,12 +94,11 @@
   <li class="nav-item dropdown">
     <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Tools</a>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="tools.html">Tools</a>
-      <div class="dropdown-divider"></div>
       <a class="dropdown-item" href="tools-python.html">Python</a>
       <a class="dropdown-item" href="tools-notebooks.html">Python Notebooks</a>
       <a class="dropdown-item" href="tools-mqtt.html">MQTT</a>
       <a class="dropdown-item" href="tools-stmpy.html">STMPY</a>
+	  <a class="dropdown-item" href="tools-base.html">Base Architecture</a>
     </div>
   </li>
   
@@ -136,38 +135,38 @@
     </section>
     <section class="content">
 <h1 id="mqtt">MQTT</h1>
+<p>We use MQTT as the protocol to connect all system components.</p>
 
     </section>
     <section class="content">
 <h1 id="mqtt-broker">MQTT Broker</h1>
-<h2>
-Hosting your own MQTT broker
-</h2>
-<p>Hosting your own MQTT broker on a Raspberry Pi, by using Mosquitto:</p>
-<p>All commands needed for the Pi are marked in <strong>bold</strong></p>
-<p>Start by making a new directory for Mosquitto:</p>
-<p><strong>mkdir mosquitto</strong></p>
-<p><strong>cd mosquitto/</strong></p>
-<p>Now get a key and add it:</p>
-<p><strong>wget http://repo.mosquitto.org/debian/http://repo.mosquitto.org/debian/mosquitto-repo.gpg.key</strong></p>
-<p><strong>sudo apt-key add mosquitto-repo.gpg.key</strong></p>
-<p>Make repository available to apt:</p>
-<p><strong>cd /etc/apt/sources.list.d/</strong></p>
-<p><strong>sudo wget http://repo.mosquitto.org/debian/mosquitto-stretch.list</strong></p>
-<p>Now update the package-lists and install mosquitto:</p>
-<p><strong>sudo apt-get update</strong></p>
-<p><strong>sudo apt-get install mosquitto</strong></p>
-You should now have a working MQTT broker! (This broker listens on port 1883 by default)
-<h3>
-Quick test
-</h3>
-<p>If you want to test this, it can be done easily by installing Mosquitto MQTT-clients aswell:</p>
-<p><strong>sudo apt-get install mosquitto-clients</strong></p>
+<h2 id="install-mosquitto-on-a-raspberry-pi">Install Mosquitto on a Raspberry Pi</h2>
+
+<h3 id="mosquitto-broker">Mosquitto Broker</h3>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="ex">sudo</span> apt-get install mosquitto</a></code></pre></div>
+
+<h3 id="mosquitto-command-line-clients">Mosquitto Command-Line Clients</h3>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="ex">sudo</span> apt-get install mosquitto-clients</a></code></pre></div>
+
+<h3 id="testing-mosquitto">Testing Mosquitto</h3>
 <p>You can now try to subscribe to a topic</p>
-<p><strong>mosquitto_sub -d -t example_topic</strong></p>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="ex">mosquitto_sub</span> -d -t example_topic</a></code></pre></div>
+
 <p>and publish something on that topic:</p>
-<p><strong>mosquitto_pub -d -t example_topic -m “Time for a coffee”</strong></p>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="ex">mosquitto_pub</span> -d -t example_topic -m <span class="st">&quot;Time for a coffee&quot;</span></a></code></pre></div>
+
 <p><img src="https://www.iik.ntnu.no/ttm4115/wp-content/uploads/2018/02/mqtt_example-300x231.png" alt="" width="525" height="404" class="alignnone wp-image-368" /></p>
+<h3 id="enabling-websockets">Enabling Websockets</h3>
+<p>If you want to connect to the MQTT broker also via MQTT over websockets (usually from Javascript) then you need to enable Websockets. For that, create a file called <code>mosquitto.conf</code> in the folder <code>/etc/mosquitto/conf.d</code> and add the follwing lines:</p>
+<pre><code>listener 1883
+protocol mqtt
+
+listener 1884
+protocol websockets</code></pre>
 
     </section>
     <section class="content">
