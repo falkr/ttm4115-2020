@@ -47,6 +47,16 @@ If you want to connect to the MQTT broker also via MQTT over websockets (usually
 
 
 
+# NTNU MQTT Broker
+
+We have setup an MQTT broker with the address `mqtt.item.ntnu.no`. It is configured with the default ports `1883` for connections via TCP and `1884` for connections via websockets.
+
+    listener 1883
+    protocol mqtt
+    
+    listener 1884
+    protocol websockets
+
 
 
 
