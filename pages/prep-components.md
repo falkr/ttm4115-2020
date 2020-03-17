@@ -50,7 +50,7 @@ But even if we wrote all our code ourselves and new for each new system (good lu
 
 ## Components and Classes Are Not the Same
 
-Maybe you think _"Isn't this what objects and classes are for?"_. But that doesn't quite fit. Individual objects are not deployed in a system, they are often too fine-grained. 
+Maybe you think _"Isn't this what objects and classes are for?"_ But that doesn't quite fit. Individual objects are not deployed in a system, they are often too fine-grained. 
 
 You may well think of components as "objects" in terms of "things". And internally, when using an object-oriented language, they are  built from classes and objects. (They may even extend a class _Component_ provided by some component framework.) So if you want to think in object-oriented terms, think of a component as a set of classes and objects assembled into something bigger, with some extra properties that we look at in the following.
 
