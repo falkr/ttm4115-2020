@@ -68,7 +68,7 @@ Objectives do not yet explain how the system is implemented, but are oriented to
 * Stakeholders are humans or organizations.
 
 
-### Evaluation of the Requirements Part
+### Criteria for the Requirements Part
 
 All sections in the requirement part are evaluated together with the following criteria:
 
@@ -145,7 +145,7 @@ All sections in the requirement part are evaluated together with the following c
 	</ul>
 </td>
 </tr>
-<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-citeria">Read more about this table...<div></td></tr>
+<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
 </tbody>
 </table>
 
@@ -174,7 +174,7 @@ This is not an official diagram type, but it turned out so useful for the develo
 **Hints:** Most likely, each of the use cases will fit on a single page in portrait orientation. (So use about 3 pages in total.)
 
 
-### Evaluation of the Use Case Part
+### Criteria for the Use Case Part
 
 The main function of the use cases is to provide a clearer picture of the needed system functionality before anything is implemented. 
 The value of this part hence is based on its usefulness for the upcoming process.
@@ -251,7 +251,7 @@ The value of this part hence is based on its usefulness for the upcoming process
 	</ul>
 </td>
 </tr>
-<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-citeria">Read more about this table...<div></td></tr>
+<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
 </tbody>
 </table>
 
@@ -268,7 +268,7 @@ The value of this part hence is based on its usefulness for the upcoming process
 **Hints:** Most likely, the deployment diagram will fit on a single A4 page in landscape orientation.
 
 
-### Evaluation of the Deployment Diagram
+### Criteria for the Deployment Diagram
 
 
 The deployment diagram is evaluated based on general criteria for diagrams.
@@ -343,7 +343,7 @@ The deployment diagram is evaluated based on general criteria for diagrams.
 	</ul>
 </td>
 </tr>
-<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-citeria">Read more about this table...<div></td></tr>
+<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
 </tbody>
 </table>
 
