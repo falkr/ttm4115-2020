@@ -27,3 +27,28 @@ The team deliveries document your progress with the system. T1 and T2 are not di
 These are three consecutive deliveries that build on each other, and encourage you to reflect about the course, your own role and progress, and how you reached the learning goals. I2 and I2 are not directly graded, but make it easier for you to write the final portfolio.
 
 
+# Grading Criteria
+
+For all deliveries, we will define tables (also called [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic))).
+These criteria give you an orientation about how to reach the learning goals of the course. 
+For the entire course, we use the standard [grading scheme for NTNU](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Karakterskalaen).
+The speficic tables explain how the levels there map to the specific task or learning outcome they cover. 
+
+<table class="table table-sm">
+	<tbody>
+		<tr class="rubric_title">
+			<th><b>Symbol</b></th>
+			<th><b>Description</b></th><th><b>General, qualitative description of valuation criteria</b></th>
+		</tr>
+		<tr class="rubric_a"> <td> A </td> <td> Excellent </td> <td> An excellent performance, clearly outstanding. The candidate demonstrates excellent judgement and a high degree of independent thinking. </td> </tr>
+		<tr class="rubric_b"> <td> B </td> <td> Very good </td> <td> A very good performance. The candidate demonstrates sound judgement and a very good degree of independent thinking. </td> </tr>
+		<tr class="rubric_c"> <td> C </td> <td> Good </td> <td> A good performance in most areas. The candidate demonstrates a reasonable degree of judgement and independent thinking in the most important areas. </td> </tr>
+		<tr class="rubric_d"> <td> D </td> <td> Satisfactory </td> <td> A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of judgement and independent thinking. </td> </tr>
+		<tr class="rubric_e"> <td> E </td> <td> Sufficient </td> <td> A performance that meets the minimum criteria, but no more. The candidate demonstrates a very limited degree of judgement and independent thinking. </td> </tr>
+		<tr class="rubric_f"> <td> F </td> <td> Fail </td> <td>A performance that does not meet the minimum academic criteria. The candidate demonstrates an absence of both judgement and independent thinking.</td> </tr> </tbody>
+</table>
+
+For simplicity, we formulate them so that all criteria to reach a lower grade (symbol) are also implied for the higher levels. For example, if the C-level states that "use cases have a proper name", then this also holds for the A- and B-level, even if not explicitly stated.
+
+While the criteria from NTNU above are absolute and fixed, we work together in the course of defining criteria for these levels for the different tasks. Part of the deliveries will therefore also be input from you on the criteria.
+
