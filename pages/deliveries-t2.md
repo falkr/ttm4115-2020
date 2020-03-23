@@ -225,3 +225,49 @@ Create state machines for selected components in the system.
 
 
 1. A wrong use of control states would be when variables are used to keep track of information that is more suitable for control states. See [here](unit-statemachines-data.html).
+
+
+## Overall Delivery
+
+
+<table class="rubric">
+<thead>
+<tr>
+<th></th>
+<th>Excellent</th>
+<th>Good</th>
+<th>Sufficient</th>
+<th>Not rateable</th>
+</tr>
+</thead>
+<tbody>
+	
+<tr>
+<td>Complexity and scope</td>
+<td>The chosen scope for the system is appropriate.</td>
+<td>The chosen scope for the system is appropriate.</td>
+<td>The chosen scope for the system is appropriate.</td>
+<td>System is too simple to apply learned material.</td>
+</tr>
+
+<tr>
+<td>Consistency</td>
+<td>All parts of the delivery are consistent.</td>
+<td>Overall good consistency.</td>
+<td>Some minor errors with the consistency.</td>
+<td>Major inconsistencies between the parts.</td>
+</tr>
+
+<tr>
+<td>Delivery</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Late delivery or wrong format.</td>
+</tr>
+
+</tbody>
+<tfoot>
+<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
+</tfoot>
+</table>
