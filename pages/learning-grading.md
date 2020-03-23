@@ -32,7 +32,7 @@ These are three consecutive deliveries that build on each other, and encourage y
 For all deliveries, we will define tables (also called [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic))).
 These criteria give you an orientation about how to reach the learning goals of the course. 
 For the entire course, we use the standard [grading scheme for NTNU](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Karakterskalaen).
-The speficic tables explain how the levels there map to the specific task or learning outcome they cover. 
+The speficic tables explain how the performance levels and general criteria map to the specific task or learning outcome they cover. 
 
 <table class="table table-sm">
 	<tbody>

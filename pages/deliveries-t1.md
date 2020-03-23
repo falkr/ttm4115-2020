@@ -22,7 +22,7 @@ The delivery must contain the following sections:
 
 ### 1. Problem and Background
  
-**Task:** Provide a brief description of the problem you want to solve. It should provide the context so that the reader can understand your vision in the next section.
+Provide a brief description of the problem you want to solve. It should provide the context so that the reader can understand your vision in the next section.
 
 **Hints:**
 
@@ -34,7 +34,7 @@ The delivery must contain the following sections:
 
 ### 2. Vision	
 
-**Task:** Provide a vision for the system to build.
+Provide a vision for the system to build.
 All team members should be aware of this vision and share it.
 Be concise and specific.
 Ideally, the vision connects the objectives with the problem description.
@@ -49,7 +49,7 @@ It highlights what is new or special with the system.
 
 ### 3. Objectives
 
-**Task:** State at least three objectives, but not much more than five. Objectives are goals that your system can achieve. They need to be specific, and they need to be verifiable. State the objective, and state how it can be verified.
+State at least three objectives, but not much more than five. Objectives are goals that your system can achieve. They need to be specific, and they need to be verifiable. State the objective, and state how it can be verified.
 Objectives do not yet explain how the system is implemented, but are oriented towards the users' domain.
 
 **Hints:** 
@@ -60,7 +60,7 @@ Objectives do not yet explain how the system is implemented, but are oriented to
 
 ### 4. Stakeholders
 	
-**Task:** Identify the main stakeholders in the system. Identify their values and interest. Present all in a table. 
+Identify the main stakeholders in the system. Identify their values and interest. Present all in a table. 
 
 **Hints:** 
 
@@ -72,81 +72,63 @@ Objectives do not yet explain how the system is implemented, but are oriented to
 
 All sections in the requirement part are evaluated together with the following criteria:
 
-<table class="table table-sm">
+<table class="rubric">
 <thead>
-<tr class="header rubric_title">
-<th>Symbol</th>
-<th>Description</th>
-<th>Criteria</th>
+<tr>
+<th></th>
+<th>Excellent</th>
+<th>Good</th>
+<th>Sufficient</th>
+<th>Not rateable</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd rubric_a">
-<td>A</td>
-<td>Excellent</td>
-<td>
-	<ul>
-		<li>Excellent alignment between all points.</li>
-		<li>Focused formulations.</li>
-		<li>Excellent and compact presentation.</li>			
-	</ul>
-</td>
+<tr>
+<td>Alignment</td>
+<td>Clear and consistent alignment between all parts.</td>
+<td>Overall good alignment between all parts.</td>
+<td>Minor inconsistencies in alignment.</td>
+<td>Missing alignment.</td>
 </tr>
-<tr class="even rubric_b">
-<td>B</td>
-<td>Very good</td>
-<td>
-	<ul>
-		<li>All major points addressed and in very good quality.</li>
-		<li>Very good vision, that is very well aligned with the problem and objectives.</li>
-		<li>Stakeholder considerations reveal valuable requirements and motivation.</li>			
-	</ul>
-</td>
+<tr>
+<td>Descriptions</td>
+<td>Concise descriptions with focused formulations.</td>
+<td>Overall good language.</td>
+<td>Minor flaws in formulations and language.</td>
+<td>Major language errors and typos.</td>
 </tr>
-<tr class="odd rubric_c">
-<td>C</td>
-<td>Good</td>
-<td>
-	<ul>
-		<li>The problem is clearly identified, motivated and explained.</li>
-		<li>The vision is clear and consistent and aligned with the problem.</li>
-		<li>All major points addressed (including stakeholders, objectives).</li>
-		<li>Objectives are specific.</li>			
-	</ul>
-</td>
+<tr>
+<td>Problem Description</td>
+<td></td>
+<td>Clearly identified, motivated and explained.</td>
+<td>Problem is addressed and somewhat aligned with objectives and vision.</td>
+<td></td>
 </tr>
-<tr class="even rubric_d">
-<td>D</td>
-<td>Satisfactory</td>
-<td>
-	<ul>
-		<li>Problem is addressed and somewhat aligned with objectives and vision.</li>
-		<li>A few good objectives are named.</li>
-		<li>Some objectives are not well aligned, at a wrong level of abstraction or somewhat unclear.</li>		
-	</ul>
-</td>
+<tr>
+<td>Vision</td>
+<td>Vision serves as overall, consistent goal for the entire system.</td>
+<td>Vision is well aligned with the problem and objectives.</td>
+<td>Vision is provided, but somewhat lacking in overall value.</td>
+<td></td>
 </tr>
-<tr class="odd rubric_e">
-<td>E</td>
-<td>Sufficient</td>
-<td>
-	<ul>
-		<li>All parts addressed, but with considerable shortcomings.</li>
-		<li>Problem is addressed, but not clear and not aligned with objectives or vision.</li>
-	</ul>
-</td>
+<tr>
+<td>Objectives</td>
+<td>Objectives are focused, compact, specific and relevant.</td>
+<td>Objectives are specific.</td>
+<td>A few good objectives are given.</td>
+<td></td>
 </tr>
-<tr class="even rubric_f">
-<td>F</td>
-<td>Fail</td>
-<td>
-	<ul>
-		<li>Not delivered or incomplete.</li>
-	</ul>
-</td>
+<tr>
+<td>Stakeholders</td>
+<td>Reveal valuable requirements and motivation.</td>
+<td>Are complete.</td>
+<td></td>
+<td></td>
 </tr>
-<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
 </tbody>
+<tfoot>
+<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
+</tfoot>
 </table>
 
 
@@ -159,7 +141,7 @@ All sections in the requirement part are evaluated together with the following c
 
 This is not an official diagram type, but it turned out so useful for the development process that we decided to add it as part of the delivery.
 
-**Task:** Show at least three use cases at the sea level. Add relevant ones at the fish-level that support the sea-level use cases. Also, make sure to have at least one cloud-level use case and relevant ones at the kit level to connect cloud-level with sea-level. Make sure that the use cases are at the right level and relevant for the vision and objectives of the system.
+Show at least three use cases at the sea level. Add relevant ones at the fish-level that support the sea-level use cases. Also, make sure to have at least one cloud-level use case and relevant ones at the kit level to connect cloud-level with sea-level. Make sure that the use cases are at the right level and relevant for the vision and objectives of the system.
 
 <!--
 * **Task:** Present a use case diagram that covers the major features of your system.
@@ -169,7 +151,7 @@ This is not an official diagram type, but it turned out so useful for the develo
 
 ### 6. Use Cases in Table Form
 
-**Task:** Describe 3 use cases for the major features of your system. Choose use cases at the sea-level. Follow the table format proposed in the book and shown on page 150.
+Describe 3 use cases for the major features of your system. Choose use cases at the sea-level. Follow the table format proposed in the book and shown on page 150.
 
 **Hints:** Most likely, each of the use cases will fit on a single page in portrait orientation. (So use about 3 pages in total.)
 
@@ -179,80 +161,49 @@ This is not an official diagram type, but it turned out so useful for the develo
 The main function of the use cases is to provide a clearer picture of the needed system functionality before anything is implemented. 
 The value of this part hence is based on its usefulness for the upcoming process.
 
-<table class="table table-sm">
+<table class="rubric">
 <thead>
-<tr class="header rubric_title">
-<th>Symbol</th>
-<th>Description</th>
-<th>Criteria for the Use Case Part</th>
+<tr>
+<th></th>
+<th>Excellent</th>
+<th>Good</th>
+<th>Sufficient</th>
+<th>Not rateable</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd rubric_a">
-<td>A</td>
-<td>Excellent</td>
-<td>
-	<ul>
-		<li>The use cases provide excellent value for the development by addressing relevant issues in a compact form.</li>
-		<li>Selected level of detail is consistent.</li>
-		<li>Excellent alignment with objectives, vision and upcoming system.</li>			
-	</ul>
-</td>
+<tr>
+<td>Exceptions and Alternatives</td>
+<td>Consistent handling of relevant exceptions and alternatives.</td>
+<td>Most relevant exceptions and alterntives described.</td>
+<td>Some inconsistencies.</td>
+<td></td>
 </tr>
-<tr class="even rubric_b">
-<td>B</td>
-<td>Very good</td>
-<td>
-	<ul>
-		<li>The described use cases form a cohesive, focused whole that are a very good basis for planning the upcoming development of the system.</li>
-		<li>Descriptions are clear, complete and concise.</li>
-		<li>All important exceptions and alternatives are handled at a suitable level of detail.</li>			
-	</ul>
-</td>
+<tr>
+<td>Alignment</td>
+<td>Consistent with user requirements, vision and system.</td>
+<td>Good alignment to the user requirements.</td>
+<td>Minor inconsistencies.</td>
+<td>Missing alignment.</td>
 </tr>
-<tr class="odd rubric_c">
-<td>C</td>
-<td>Good</td>
-<td>
-	<ul>
-		<li>Use cases have a suitable name.</li>
-		<li>Descriptions are clear.</li>
-		<li>Good alignment between the user requirements and the use cases is visible.</li>
-		<li>Major exceptions and alternatives are handled.</li>			
-	</ul>
-</td>
+<tr>
+<td>Descriptions</td>
+<td>Concise descriptions.</td>
+<td>Use cases have good, descriptive names.</td>
+<td></td>
+<td>Major language errors and typos.</td>
 </tr>
-<tr class="even rubric_e">
-<td>D/E</td>
-<td>Satisfactory / Sufficient</td>
-<td>
-	<ul>
-		<li>All major information is provided, but some flaws here and there.</li>	
-	</ul>
-</td>
+<tr>
+<td>Value</td>
+<td>The use cases provide excellent value for the development by addressing relevant issues in a compact form.</td>
+<td>The described use cases form a cohesive, focused whole that are a good basis for planning the upcoming development of the system.</td>
+<td>Some value for further development, but inconsistent.</td>
+<td></td>
 </tr>
-<!--
-<tr class="odd">
-<td>E</td>
-<td>Sufficient</td>
-<td>
-	<ul>
-		<li>Diagram shows some relevant concepts.</li>
-		<li></li>
-	</ul>
-</td>
-</tr>-->
-<tr class="even rubric_f">
-<td>F</td>
-<td>Fail</td>
-<td>
-	<ul>
-		<li>Not delivered or incomplete.</li>
-	</ul>
-</td>
-</tr>
-<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
 </tbody>
+<tfoot>
+<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
+</tfoot>
 </table>
 
 
@@ -262,7 +213,7 @@ The value of this part hence is based on its usefulness for the upcoming process
 
 ### 7. Deployment Diagram
 
-**Tasks:** Present a first version of a deployment diagram of your system. Identify the main execution nodes of your system and how they are connected. Identify critical hardware components (even if you later chose to simulate them.) Identify communication protocols that you are already aware of, and identify execution environments.
+Present a first version of a deployment diagram of your system. Identify the main execution nodes of your system and how they are connected. Identify critical hardware components (even if you later chose to simulate them.) Identify communication protocols that you are already aware of, and identify execution environments.
 
 
 **Hints:** Most likely, the deployment diagram will fit on a single A4 page in landscape orientation.
@@ -273,78 +224,43 @@ The value of this part hence is based on its usefulness for the upcoming process
 
 The deployment diagram is evaluated based on general criteria for diagrams.
 
-<table class="table table-sm">
+
+<table class="rubric">
 <thead>
-<tr class="header rubric_title">
-<th>Symbol</th>
-<th>Description</th>
-<th>Criteria for Diagrams in General</th>
+<tr>
+<th></th>
+<th>Excellent</th>
+<th>Good</th>
+<th>Sufficient</th>
+<th>Not rateable</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd rubric_a">
-<td>A</td>
-<td>Excellent</td>
-<td>
-	<ul>
-		<li>Excellent layout.</li>
-		<li>Consistent level of detail that is appropriate for the task of the diagram.</li>
-	</ul>
-</td>
+<tr>
+<td>Layout</td>
+<td>Layout follows a strategy that helps to understand the diagram.</td>
+<td>Layout is structured.</td>
+<td>Layout is structured.</td>
+<td>Layout is unstructured and random.</td>
 </tr>
-<tr class="even rubric_b">
-<td>B</td>
-<td>Very good</td>
-<td>
-	<ul>
-		<li>Very good layout, following an overall strategy.</li>
-		<li>Completeness with respect to what should be covered.</li>
-	</ul>
-</td>
+<tr>
+<td>Syntax</td>
+<td>Correct syntax.</td>
+<td>Correct Syntax.</td>
+<td>Overall good syntax, with a few minor errors.</td>
+<td>Major syntactical flaws.</td>
 </tr>
-<tr class="odd rubric_c">
-<td>C</td>
-<td>Good</td>
-<td>
-	<ul>
-		<li>Diagram is syntactically correct.</li>
-		<li>Diagram appears orderly.</li>
-		<li>Diagram may contain some minor flaws, but okay overall.</li>			
-	</ul>
-</td>
+<tr>
+<td>Level of Detail</td>
+<td>Consistent and intentional level of detail.</td>
+<td>Adequate detailing.</td>
+<td>Some inconsistencies, too much focus on some details on the expense of others.</td>
+<td></td>
 </tr>
-<!--<tr class="even">
-<td>D</td>
-<td>Satisfactory</td>
-<td>
-	<ul>
-		<li>Diagram has a number of flaws.</li>
-		<li></li>
-		<li></li>		
-	</ul>
-</td>
-</tr>-->
-<tr class="odd rubric_e">
-<td>D/E</td>
-<td>Satisfactory / Sufficient</td>
-<td>
-	<ul>
-		<li>Diagram shows some relevant concepts.</li>
-		<li>Diagram has a number of flaws.</li>
-	</ul>
-</td>
-</tr>
-<tr class="even rubric_f">
-<td>F</td>
-<td>Fail</td>
-<td>
-	<ul>
-		<li>Not delivered or incomplete.</li>
-	</ul>
-</td>
-</tr>
-<tr><td></td><td></td><td style="text-align:right; font-size: small"><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
 </tbody>
+<tfoot>
+<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
+</tfoot>
 </table>
 
 
