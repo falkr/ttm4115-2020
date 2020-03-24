@@ -72,65 +72,12 @@ Identify the main stakeholders in the system. Identify their values and interest
 
 All sections in the requirement part are evaluated together with the following criteria:
 
-<table class="rubric">
-<thead>
-<tr>
-<th></th>
-<th>Excellent</th>
-<th>Good</th>
-<th>Sufficient</th>
-<th>Not rateable</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alignment</td>
-<td>Clear and consistent alignment between all parts.</td>
-<td>Overall good alignment between all parts.</td>
-<td>Minor inconsistencies in alignment.</td>
-<td>Missing alignment.</td>
-</tr>
-<tr>
-<td>Descriptions</td>
-<td>Concise descriptions with focused formulations.</td>
-<td>Overall good language.</td>
-<td>Minor flaws in formulations and language.</td>
-<td>Major language errors and typos.</td>
-</tr>
-<tr>
-<td>Problem Description</td>
-<td></td>
-<td>Clearly identified, motivated and explained.</td>
-<td>Problem is addressed and somewhat aligned with objectives and vision.</td>
-<td></td>
-</tr>
-<tr>
-<td>Vision</td>
-<td>Vision serves as overall, consistent goal for the entire system.</td>
-<td>Vision is well aligned with the problem and objectives.</td>
-<td>Vision is provided, but somewhat lacking in overall value.</td>
-<td></td>
-</tr>
-<tr>
-<td>Objectives</td>
-<td>Objectives are focused, compact, specific and relevant.</td>
-<td>Objectives are specific.</td>
-<td>A few good objectives are given.</td>
-<td></td>
-</tr>
-<tr>
-<td>Stakeholders</td>
-<td>Reveal valuable requirements and motivation.</td>
-<td>Are complete.</td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-<tfoot>
-<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
-</tfoot>
-</table>
-
+---
+type: table
+file: files/rubrics/requirements.mw
+class: rubric
+caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
+---
 
 ## Use Case Part
 
@@ -161,50 +108,12 @@ Describe 3 use cases for the major features of your system. Choose use cases at 
 The main function of the use cases is to provide a clearer picture of the needed system functionality before anything is implemented. 
 The value of this part hence is based on its usefulness for the upcoming process.
 
-<table class="rubric">
-<thead>
-<tr>
-<th></th>
-<th>Excellent</th>
-<th>Good</th>
-<th>Sufficient</th>
-<th>Not rateable</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Exceptions and Alternatives</td>
-<td>Consistent handling of relevant exceptions and alternatives.</td>
-<td>Most relevant exceptions and alterntives described.</td>
-<td>Some inconsistencies.</td>
-<td></td>
-</tr>
-<tr>
-<td>Alignment</td>
-<td>Consistent with user requirements, vision and system.</td>
-<td>Good alignment to the user requirements.</td>
-<td>Minor inconsistencies.</td>
-<td>Missing alignment.</td>
-</tr>
-<tr>
-<td>Descriptions</td>
-<td>Concise descriptions.</td>
-<td>Use cases have good, descriptive names.</td>
-<td></td>
-<td>Major language errors and typos.</td>
-</tr>
-<tr>
-<td>Value</td>
-<td>The use cases provide excellent value for the development by addressing relevant issues in a compact form.</td>
-<td>The described use cases form a cohesive, focused whole that are a good basis for planning the upcoming development of the system.</td>
-<td>Some value for further development, but inconsistent.</td>
-<td></td>
-</tr>
-</tbody>
-<tfoot>
-<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
-</tfoot>
-</table>
+---
+type: table
+file: files/rubrics/usecases.mw
+class: rubric
+caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
+---
 
 
 ## Architecture Part
@@ -225,43 +134,12 @@ Present a first version of a deployment diagram of your system. Identify the mai
 The deployment diagram is evaluated based on general criteria for diagrams.
 
 
-<table class="rubric">
-<thead>
-<tr>
-<th></th>
-<th>Excellent</th>
-<th>Good</th>
-<th>Sufficient</th>
-<th>Not rateable</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Layout</td>
-<td>Layout follows a strategy that helps to understand the diagram.</td>
-<td>Layout is structured.</td>
-<td>Layout is structured.</td>
-<td>Layout is unstructured and random.</td>
-</tr>
-<tr>
-<td>Syntax</td>
-<td>Correct syntax.</td>
-<td>Correct Syntax.</td>
-<td>Overall good syntax, with a few minor errors.</td>
-<td>Major syntactical flaws.</td>
-</tr>
-<tr>
-<td>Level of Detail</td>
-<td>Consistent and intentional level of detail.</td>
-<td>Adequate detailing.</td>
-<td>Some inconsistencies, too much focus on some details on the expense of others.</td>
-<td></td>
-</tr>
-</tbody>
-<tfoot>
-<tr><td colspan=5><a href="learning-grading.html#grading-criteria">Read more about this table...<div></td></tr>
-</tfoot>
-</table>
+---
+type: table
+file: files/rubrics/deployment.mw
+class: rubric
+caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
+---
 
 
 # Formatting Rules for Deliveries
