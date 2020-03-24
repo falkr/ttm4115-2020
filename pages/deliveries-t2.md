@@ -229,6 +229,10 @@ Create state machines for selected components in the system.
 
 ## Overall Delivery
 
+---
+type: table
+file: files/rubrics2.mw
+---
 
 <table class="rubric">
 <thead>
