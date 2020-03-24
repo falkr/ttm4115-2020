@@ -27,6 +27,9 @@ source: figures/diagrams/deployment-bus.png
 caption: "Layout that emphasizes the communication bus."
 ---
 
+For state machines, experiment with the arrangement of states. Usually it is easiert for the reader to get a good sense of orientation if you begin with the initial state in the upper left corner, like in a written document.
+
+
 
 
 # Use PDF or PNG

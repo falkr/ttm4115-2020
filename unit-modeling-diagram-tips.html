@@ -136,16 +136,43 @@
 <div class="page">
     </section>
     <section class="content">
-<h1 id="learning-areas">Learning Areas</h1>
-<ul>
-<li>Overview of rooms on <a href="https://tp.uio.no/ntnu/report/rominfo.php#Gløshaugen">Timeplan</a></li>
-</ul>
-<h2 id="smia">Smia</h2>
-<ul>
-<li>Place: Sentralbygg 2, 2nd floor. <a href="http://use.mazemap.com/?v=1&amp;campuses=ntnu&amp;sharepoitype=identifier&amp;sharepoi=322-212">Map</a></li>
-<li>Check for availability: <a href="https://tp.uio.no/ntnu/timeplan/?id%5B%5D=322212&amp;type=room&amp;area=30000&amp;building=322&amp;id=322212">Timeplan Smia</a></li>
-</ul>
+<h1 id="tips-for-diagrams">Tips for Diagrams</h1>
 
+    </section>
+    <section class="content">
+<h1 id="have-a-strategic-layout">Have a Strategic Layout</h1>
+
+<p>The layout determines where you place your elements in the diagram. This is an opportunity to convey extra information to the reader and emphasize structural elements in the diagram that go beyond how the graph is connected.</p>
+<p>The figure below shows a deployment diagram where the strategy is to place the nodes not only dependent to their graph strcuture, but also to their hierarchy in the system. Devices running in the cloud are shown at the top and devices running as endpoints (like small devices) are shown in the lowest layer. This already conveys some form of order to the diagram.</p>
+
+<div class="figure">
+<img src="figures/diagrams/deployment-tiers.png" alt="Layout that follows the system hierarchy." width="100%"/>
+<span name="figures/diagrams/deployment-tiers.png">&nbsp;</span>
+<aside name="figures/diagrams/deployment-tiers.png"><p><p>Layout that follows the system hierarchy.</p>
+</p></aside>
+</div>
+<p>Another example is shown below that follows an entirely different strategy. Here the shared communication medium is highlighted, and components are arranged alongside this shared bus.</p>
+
+<div class="figure">
+<img src="figures/diagrams/deployment-bus.png" alt="Layout that emphasizes the communication bus." width="100%"/>
+<span name="figures/diagrams/deployment-bus.png">&nbsp;</span>
+<aside name="figures/diagrams/deployment-bus.png"><p><p>Layout that emphasizes the communication bus.</p>
+</p></aside>
+</div>
+<p>For state machines, experiment with the arrangement of states. Usually it is easiert for the reader to get a good sense of orientation if you begin with the initial state in the upper left corner, like in a written document.</p>
+
+    </section>
+    <section class="content">
+<h1 id="use-pdf-or-png">Use PDF or PNG</h1>
+
+<p>When you create a digram, try to export it in PDF format from the graphical tool. As a tool for the final report you will most likely use Microsoft Word, which has the option to import PDF graphics. This has the benefit that the graphic is exported in a vectorized format, and not in a pixeled version. If PDF is not available, choose PNG with a resolution that is high enough. That is a pixeled image, but does not use the same compression as JPEG.</p>
+
+<div class="figure">
+<img src="figures/diagrams/conversion.png" alt="Prefer PDF as conversion fromat when importing diagrams into Word to avoid blurred diagrams." width="100%"/>
+<span name="figures/diagrams/conversion.png">&nbsp;</span>
+<aside name="figures/diagrams/conversion.png"><p><p>Prefer PDF as conversion fromat when importing diagrams into Word to avoid blurred diagrams.</p>
+</p></aside>
+</div>
     </section>
 </div>
 
