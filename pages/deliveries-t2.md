@@ -37,6 +37,9 @@ class: rubric
 caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
 ---
 
+* Tips for [diagram layout](unit-modeling-diagram-tips.html)
+* Syntax for [deployment diagrams](prep-modeling.html)
+* Level of detail: Details that are included matter, and are not accidental.
 
 ## Sequence Diagrams
 
@@ -54,8 +57,10 @@ class: rubric
 caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
 ---
 
-
-1. If you don't find any implied scenarios, make sure your system is suitable for the course and not overly simplifying reality. If despite this there are no implied scenarios, add a comment.
+* [Syntax for interactions](prep-interactions.html).
+* Pay attention that you select which scnarios to show so that it not only provides coverage, but also helps to understand.
+* It is, in principle, possible to not use any combined fragments. They should be applied where they help.
+* If you don't find any implied scenarios, make sure your system is suitable for the course and not overly simplifying reality. If despite this there are no implied scenarios, add a comment.
 
 
 ## State Machines
@@ -74,15 +79,35 @@ class: rubric
 caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
 ---
 
-
-1. A wrong use of control states would be when variables are used to keep track of information that is more suitable for control states. See [here](unit-statemachines-data.html).
+* [Syntax for state machines](prep-statemachines.html).
+* A wrong use of control states would be when variables are used to keep track of information that is more suitable for control states. See [here](unit-statemachines-data.html).
+* The state machine should be consistent with respect to states and transition and the requirements. For instance, it does not end up in a deadlocked state or ignore an event unless the requirements are okay with this.
 
 
 ## Overall Delivery
+
+At this stage, you should also have a look at the overall quality of the delivery, that means, how the individual parts are connected. 
 
 ---
 type: table
 file: files/rubrics/overall.mw
 class: rubric
-caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...<div>'
+caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
 ---
+
+# Reflection and Request for Feedback
+
+In the last part of the delivery, please add a section in which you reflect about how well you have answered the individual criteria from above. 
+
+## Your Own Assessment
+
+* For each ot the criteria tables, mark for the different criteria rows which level you think you have achieved. 
+* Below the table, add a short comment on your choice.
+* Comment on what you think could further be improved.
+* Comment on what you think is solved nicely.
+* Comment also if you think that the criteria are not covering a performance well.
+
+
+## Request for Feedback
+
+For each of the criteria tables, tell us what you wonder about most, that means, ask explicitly for the points you are most unsure, or items you want to have tips for.

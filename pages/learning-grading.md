@@ -29,10 +29,11 @@ These are three consecutive deliveries that build on each other, and encourage y
 
 # Grading Criteria
 
-For all deliveries, we will define tables (also called [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic))).
-These criteria give you an orientation about how to reach the learning goals of the course. 
+
+## Overall, Generic Criteria
+
 For the entire course, we use the standard [grading scheme for NTNU](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Karakterskalaen).
-The speficic tables explain how the performance levels and general criteria map to the specific task or learning outcome they cover. 
+
 
 <table class="table table-sm">
 	<tbody>
@@ -48,7 +49,22 @@ The speficic tables explain how the performance levels and general criteria map 
 		<tr class="rubric_f"> <td> F </td> <td> Fail </td> <td>A performance that does not meet the minimum academic criteria. The candidate demonstrates an absence of both judgement and independent thinking.</td> </tr> </tbody>
 </table>
 
-For simplicity, we formulate them so that all criteria to reach a lower grade (symbol) are also implied for the higher levels. For example, if the C-level states that "use cases have a proper name", then this also holds for the A- and B-level, even if not explicitly stated.
+
+## Specific Criteria
+
+For all deliveries, we will define tables for the criteria, also called [rubrics](https://en.wikipedia.org/wiki/Rubric_(academic)).
+These criteria give you an orientation about how to reach the learning goals of the course. 
+The speficic tables explain how the performance levels and general criteria map to the specific task or learning outcome they cover. The example blow show a rubrics that applies for diagrams in general.
+
+---
+type: table
+file: files/rubrics/deployment.mw
+class: rubric
+caption: '<a href="learning-grading.html#grading-criteria">Read more about these criteria...</a>'
+---
+
+The rows show a number of individual criteria groups, as for instance *Layout*. The individual columns then show what characterizes a layout on different performance levels *excellent*, *good*, *sufficient*. It also describes when a layout is not rateable.
+
 
 While the criteria from NTNU above are absolute and fixed, we work together in the course of defining criteria for these levels for the different tasks. Part of the deliveries will therefore also be input from you on the criteria.
 
