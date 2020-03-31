@@ -27,6 +27,30 @@ The team deliveries document your progress with the system. T1 and T2 are not di
 These are three consecutive deliveries that build on each other, and encourage you to reflect about the course, your own role and progress, and how you reached the learning goals. I2 and I2 are not directly graded, but make it easier for you to write the final portfolio.
 
 
+# Peer Evaluation
+
+With the delivery of T3 you also deliver a peer review of your teammates. 
+This evaluation assigns points to your teammates, and rewards them for good contributions to the teamwork.
+
+This is how it works technically:
+
+- You have 100 points.
+- You distribute these 100 points among the other team members. (You don't give points to yourself.)
+- In a team with 6 students, this means that you distribute 100 points among the 5 other members.
+
+After the submission, everyone gets a report on the points they have received.
+
+- Everyone can see which points they received, but not from whom.
+- The points count towards a score.
+- The score is multiplied with the grade for the team project.
+
+---
+type: figure
+source: figures/tbl/peer-1.svg
+caption: "A student distributing 100 points to the teammates."
+---
+
+
 # Grading Criteria
 
 
