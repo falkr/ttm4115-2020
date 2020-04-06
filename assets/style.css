@@ -21,7 +21,7 @@ th {
 }
 
 
-li p {
+li p, table p {
   margin: 0;
 }
 
