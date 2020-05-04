@@ -53,7 +53,7 @@ caption: "Each level comes with an illustration that tries to convey the very ab
 
 * **Multi-structural:** You present multiple pieces of information, but they are not linked.
 
-* **Relational:** You present a reasonable multiple pieces of information, and also provide links between them.
+* **Relational:** You present multiple pieces of information, and also provide links between them.
 
 * **Extended Abstract:** You present a reasonable multiple pieces of information, and also provide links between them, and extend your discussion beyond what was said in the course. 
 
