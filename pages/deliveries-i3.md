@@ -27,6 +27,62 @@ Good arguments are based on logically consistent reasoning, are based on facts a
 
 Of course, expressing yourself well will always be a benefit, and we encourage you to acquire excellent language skills. Also, check your delivery for typos and grammar. We will, however, ignore language issues as long as we understand what you mean.
 
+### Write Efficiently
+
+Use repetition only carefully when it makes sense to do so, for instance to summarize or compare one point to an earlier one. Don't just repeat something because you are unsure if we got it. 
+We are going through your text carefully, so there is no danger that we miss an arguments. We are looking for them.
+
+### Use Paragraphs Strategically
+
+A paragraph should only contain one main idea or argument. Outline this argument early on in the paragraph, and use the rest of the paragraph to develop the argument, provide evidence, discuss alternatives. For longer argumentations, use several paragraphs.
+
+
+
+
+# Levels
+
+To understand what makes a good argument, we may consider the three highest levels in the [SOLO taxonomy](https://en.wikipedia.org/wiki/Structure_of_observed_learning_outcome). This taxonomy is used to assess learning outcomes, but it also works when looking at arguments. For a good argumentation, you should aim for the level of extended abstract.
+
+
+---
+type: figure
+source: figures/solo-arguments.png
+caption: "Each level comes with an illustration that tries to convey the very abstract idea behind each level."
+---
+ 
+
+* **Multi-structural:** You present multiple pieces of information, but they are not linked.
+
+* **Relational:** You present a reasonable multiple pieces of information, and also provide links between them.
+
+* **Extended Abstract:** You present a reasonable multiple pieces of information, and also provide links between them, and extend your discussion beyond what was said in the course. 
+
+
+
+# Look at your Sentences
+
+You can also consider each of your sentences to get an indication of the quality of your argument. For some, it may be too restrictive when doing this before writing. So you may also do this after you have written a couple of sentences, to plan how to proceed.
+
+The following type of sentences are examples for providing some information. Such sentences are useful to provide evidence and to lay the ground for further argumentation. Just make sure that you only include such sentences to support your argumentation, and not just fill up the page.
+
+- Rephrasing some of the content of the curriculum.
+- Explaining some parts of your specification.
+- Provide background information.
+
+
+The following sentences are often examples for building relations between information. Such sentences are useful in the course of a discussion, to build up an argument.
+
+- Comparing alternatives.
+- Discussing benefits and drawbacks.
+
+
+Now, make a statement with an idea that provides a more abstract view on your knowledge or extends it beyond what was already covered in the course. Examples for that are sentences like the following:
+
+- Analyzing causes for something.
+- Generalize from a specific situation to more general one.
+- Reasoning, drawing logic conclusions, developping an argument.
+
+
 
 # Examples for Topics
 
